@@ -42,7 +42,9 @@ Skills
 Publications
 ======
 
-A summary of my publications is also available on the [Publications](/publications/) page.
+{% include base_path %}
+
+A summary of my publications is also available on the [Publications]({{ base_path }}/publications/) page.
 
 * **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**\
   **Junteng Liu** (First Author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He\
